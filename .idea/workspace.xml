@@ -335,9 +335,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49636483" visible="true" weight="0.61276597" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49636483" visible="true" weight="0.61276597" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8883014" weight="0.22978723" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50363517" side_tool="true" visible="true" weight="0.61276597" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50363517" side_tool="true" visible="true" weight="0.61276597" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
