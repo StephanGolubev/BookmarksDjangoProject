@@ -12,7 +12,9 @@ SECRET_KEY = 'n=uj%v6^$(zj%89%6lp9e0u6%%y*($ar8e=okzts&z2^ao)*-o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mysite.com', 'localhost', '127.0.0.1']
+THUMBNAIL_DEBUG = True
+
+ALLOWED_HOSTS = ['mysite.com', 'localhost', '127.0.0.1', '885a174b.ngrok.io']
 
 
 # Application definition
@@ -27,6 +29,7 @@ INSTALLED_APPS = [
     'account.apps.AccountConfig',
     'social_django',
     'images.apps.ImagesConfig',
+    'sorl.thumbnail',
 
 ]
 
@@ -129,3 +132,4 @@ AUTHENTICATION_BACKENDS = [
 
 SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '913704277947-6u49c38uub71ate7e89q30pri8n8lr1q.apps.googleusercontent.com'
 SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '0p8iWwOyK-V_cGXJYPkXu6g-'
+
